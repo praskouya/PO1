@@ -10,9 +10,9 @@ W repozytorium znajdują się następujące projekty:
 
 W tym projekcie zrealizowałam zadanie polegające na napisaniu funkcji w języku C, która przyjmuje dwa łańcuchy tekstowe, alokuje pamięć i zwraca konkatenację tych łańcuchów. Kluczowym wymaganiem było niewykorzystywanie funkcji z biblioteki standardowej C (za wyjątkiem funkcji do alokacji i zwalniania pamięci).
 
-### Projekt 2: Opis
+### Projekt 2: Stos z dynamiczną alokacją pamięci
 
-Krótkie podsumowanie celu i funkcjonalności projektu.
+Ten projekt jest implementacją klasy Stack z wykorzystaniem dynamicznej alokacji pamięci.
 
 ### Projekt 3: Opis
 
