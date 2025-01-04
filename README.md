@@ -28,3 +28,8 @@ Custom implementation of the `std::map` pattern. Examples of its use include:
 - `Library.h` for creating a book database, where the key is the book title (`std::string`) and the value contains information about the book.
 - `Employee.h` for storing employee information.
 
+### Project 6: Snake game
+
+dopisac pozniej 
+
+
