@@ -28,8 +28,24 @@ Custom implementation of the `std::map` pattern. Examples of its use include:
 - `Library.h` for creating a book database, where the key is the book title (`std::string`) and the value contains information about the book.
 - `Employee.h` for storing employee information.
 
-### Project 6: Snake game
+### Project 6: Snake game 🐍
 
-dopisac pozniej 
+#### Features:
+- Classic Gameplay: Navigate the snake, eat apples, and grow longer while avoiding collisions with the snake's body.
+- Dynamic Levels: Difficulty increases as the snake grows and collects more apples.
+- Pause & Restart: Game can be paused and restarted at any time using keyboard shortcuts.
+- Interactive HUD: Displays current level, score, and helpful tips during gameplay.
+- Boundary Wrapping: The snake can move seamlessly through the edges of the game window.
+  
+#### Controls utilised in the game:
+Arrow Keys: Control the direction of the snake.
+p: Pause or resume the game.
+r: Restart the game.
+h: Toggle the help menu.
+
+#### How It Works:
+The game begins with a small snake and a randomly placed apple.
+Eating an apple increases the snake's size and score. For every 5 apples, the game level increases, and the snake's movement speed accelerates.
+The game ends when the snake collides with itself.
 
 
