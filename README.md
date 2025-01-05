@@ -38,10 +38,10 @@ Custom implementation of the `std::map` pattern. Examples of its use include:
 - Boundary Wrapping: The snake can move seamlessly through the edges of the game window.
   
 #### Controls utilised in the game:
-Arrow Keys: Control the direction of the snake.
-p: Pause or resume the game.
-r: Restart the game.
-h: Toggle the help menu.
+-Arrow Keys: Control the direction of the snake.
+-'p': Pause or resume the game.
+-'r': Restart the game.
+-'h': Toggle the help menu.
 
 #### How It Works:
 The game begins with a small snake and a randomly placed apple.
